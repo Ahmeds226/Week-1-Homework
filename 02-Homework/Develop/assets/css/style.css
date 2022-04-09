@@ -1,3 +1,7 @@
+:root{
+    --grey:#d9dcd6
+}
+/* Added a CSS Variable. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,19 +9,9 @@
 }
 
 body{
-background-color: #d9dcd6;
+background-color: var(--grey);
 }
 /* Added a grey background color. */
-
-/* Moved the native elements a and p to follow a better structure. */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-/* Moved the native elements a and p to follow a better structure. */
-p {
-    font-size: 16px;
-}
 
 .header {
     padding: 20px;
