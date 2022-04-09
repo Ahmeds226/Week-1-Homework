@@ -8,4 +8,4 @@ Changes made:
 
 Deployed URL: https://ahmeds226.github.io/Week-1-Homework/ 
 
-<img src="./assets/images/01-html-css-git-homework-demo.png"/>
+<img src="./images/01-html-css-git-homework-demo.png"/>
