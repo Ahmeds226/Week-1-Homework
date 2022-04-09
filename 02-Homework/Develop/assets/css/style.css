@@ -44,10 +44,11 @@ background-color: var(--grey);
 }
 /* Header div ul to header nav ul*/
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header div ul li to Header nav ul li */
 
 .hero {
     height: 800px;
