@@ -39,9 +39,10 @@ background-color: var(--grey);
 }
 /* Header div to header nav */
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
+/* Header div ul to header nav ul*/
 
 .header div ul li {
     display: inline-block;
